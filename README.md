@@ -12,7 +12,7 @@ A simple Telegram userbot based on Telethon .
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/pulls?q=is:closed)
 [![GitHub contributors](https://img.shields.io/github/contributors/sandy1709/catuserbot?&style=flat-square&logo=github)](https://GitHub.com/sandy1709/catuserbot/graphs/contributors/)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/fork)
+[![GitHub forks](https://img.shields.io/github/forks/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/Phenix470/catuserbot/fork)
 [![GitHub stars](https://img.shields.io/github/stars/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/stargazers)
 
 
